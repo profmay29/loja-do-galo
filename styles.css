@@ -5,14 +5,15 @@
     padding: 0;
     
     }
-    .banner{
-        width: 100%;
-        height: 296px;
-        display: flex;
+ .banner{
+ width: 100%;
+height: 296px;
+ display: flex;
     }
-    .menuprincipal{
+.menuprincipal{
         background-color: #9ACD32;
         width: auto;
         height: 56px;
         display: flex;
         justify-content: space-around;
+    }
